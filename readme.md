@@ -34,7 +34,7 @@ na adresi http://127.0.0.1:8000
 <img src="https://i.ibb.co/7kBRZFK/image.png">
 <b>^Slika iznad znaci da sve sljaka.^</b>
 
-<h3 text-align='center'>Greska</h3>
+<h3 align='center'>Greska</h3>
 <h3>'Whoops, looks like something went wrong.'</h3>
 1. Proveriti da li se nalazimo u folderu projekta komanda: <mark>pwd</mark> (mac) ili <b>echo %cd%</b> (win).
 2. Ako smo u projektu komanda: <b>php artisan key:generate</b> (generise kljuc za enkripciju).
