@@ -13,10 +13,10 @@
 
 1. Skines https://git-scm.com/download/win
 2. Tokom instalacije ides 'next' sve dok ne stignes do okacenih slika dole tu menjas opcije.
-3. <img src="https://i.ibb.co/DWBn0Rv/1.png">
-4. <img src="https://i.ibb.co/z8QVrPY/2.png">
-5. Provera da li git radi u command promptu (cmd-u) preko komande: git --version
-6. Ako je sve okej, nastavi dalje.
+3. <img src="https://i.ibb.co/DWBn0Rv/1.png"><br>
+<img src="https://i.ibb.co/z8QVrPY/2.png">
+4. Provera da li git radi u command promptu (cmd-u) preko komande: git --version
+5. Ako je sve okej, nastavi dalje.
 
 <hr>
 
