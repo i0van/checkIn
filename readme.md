@@ -34,7 +34,7 @@ na adresi http://127.0.0.1:8000
 <img src="https://i.ibb.co/7kBRZFK/image.png">
 <b>^Slika iznad znaci da sve sljaka.^</b>
 
-
+<h3 text-align='center'>Greska</h3>
 <h3>'Whoops, looks like something went wrong.'</h3>
 1. Proveriti da li se nalazimo u folderu projekta komanda: <mark>pwd</mark> (mac) ili <b>echo %cd%</b> (win).
 2. Ako smo u projektu komanda: <b>php artisan key:generate</b> (generise kljuc za enkripciju).
@@ -42,4 +42,3 @@ na adresi http://127.0.0.1:8000
 4. Potrebno je odraditi komandu(opet iz foldera projekta): <b>mv .env.example .env</b> (mac) ili <b>rename .env.example .env </b>(win).
 5. Zatim komandom: <b>php artisan key:generate</b> (ponovo pokusavamo da generisemo kljuc)
 6. Ako ga uspesno generise komanda: <b>php artisan serve</b>
-
