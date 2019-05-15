@@ -23,7 +23,7 @@
 <strong>Zajednicke instrukcije (posle instalacije git-a)</strong>
 
 1. Otvorite cmd i terminal.
-2. Smestite se u folder gde hocete da vam se skine projekat komanda cd
+2. Smestite se u folder gde hocete da vam se skine projekat, komanda cd
 2. komanda: git clone https://github.com/i0van/checkIn.git
 3. U terminalu ce vam traziti username zatim password github account-a.
 4. Ako se terminal ne buni trebalo bi da je skinuo ceo folder projekta sa github-a.
