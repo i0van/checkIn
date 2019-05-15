@@ -1,6 +1,6 @@
 <h2>Instrukcije za pokretanje projekta</h2>
 
-<bold>Instrukcije Milica</bold>
+<strong>Instrukcije Milica</strong>
 
 1. Skines https://git-scm.com/download/mac, instaliras.
 2. Provera da li git radi u terminalu preko komande: git --version
@@ -8,7 +8,8 @@
 
 
 
-<bold>Instrukcije Danijela</bold>
+
+<strong>Instrukcije Danijela</strong>
 1. Skines https://git-scm.com/download/win, instaliras.
 2. 
 
