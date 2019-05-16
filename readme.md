@@ -15,7 +15,7 @@
 2. Tokom instalacije ides 'next' sve dok ne stignes do okacenih slika dole tu menjas opcije.
 <img src="https://i.ibb.co/DWBn0Rv/1.png">
 <img src="https://i.ibb.co/z8QVrPY/2.png">
-3. Provera da li git radi u command promptu (cmd-u) preko komande: <b>git --version</b>
+3. Provera da li git radi u command promptu (cmd-u) preko komande: <b>git --version</b><br>
 4. Ako je sve okej, nastavi dalje.
 
 <hr>
