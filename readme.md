@@ -11,8 +11,8 @@
 
 <b>Instrukcije Danijela</b>
 
-1. Skines https://git-scm.com/download/win
-2. Tokom instalacije ides 'next' sve dok ne stignes do okacenih slika dole tu menjas opcije.
+1. Skines https://git-scm.com/download/win, zapocnes instalaciju.
+2. Tokom instalacije ides 'next' sve dok ne stignes do okacenih slika dole, tu menjas opcije.
 <img src="https://i.ibb.co/DWBn0Rv/1.png">
 <img src="https://i.ibb.co/z8QVrPY/2.png">
 3. Provera da li git radi u command promptu (cmd-u) preko komande: <b>git --version</b><br>
@@ -37,14 +37,9 @@ na adresi http://127.0.0.1:8000
 <hr>
 <h3 align='center'>Greska</h3>
 <h3 align='center'>'Whoops, looks like something went wrong.'</h3><br>
-1. Proveriti da li se nalazimo u folderu projekta komanda: <mark>pwd</mark> (mac) ili <b>echo %cd%</b> (win).
-
-2. Ako smo u projektu komanda: <b>php artisan key:generate</b> (generise kljuc za enkripciju).
-
-3. U slucaju da nam izbacuje '.env' error, isprati korake ispod.
-
-4. Potrebno je odraditi komandu(opet iz foldera projekta): <b>mv .env.example .env</b> (mac) ili <b>rename .env.example .env </b>(win).
-
-5. Zatim komandom: <b>php artisan key:generate</b> (ponovo pokusavamo da generisemo kljuc)
-
+1. Proveriti da li se nalazimo u folderu projekta komanda: <mark>pwd</mark> (mac) ili <b>echo %cd%</b> (win).<br>
+2. Ako smo u projektu komanda: <b>php artisan key:generate</b> (generise kljuc za enkripciju).<br>
+3. U slucaju da nam izbacuje '.env' error, isprati korake ispod.<br>
+4. Potrebno je odraditi komandu(opet iz foldera projekta): <b>mv .env.example .env</b> (mac) ili <b>rename .env.example .env </b>(win).<br>
+5. Zatim komandom: <b>php artisan key:generate</b> (ponovo pokusavamo da generisemo kljuc)<br>
 6. Ako ga uspesno generise komanda: <b>php artisan serve</b>
