@@ -42,4 +42,4 @@ na adresi http://127.0.0.1:8000
 3. U slucaju da nam izbacuje '.env' error, isprati korake ispod.<br>
 4. Potrebno je odraditi komandu(opet iz foldera projekta): <b>mv .env.example .env</b> (mac) ili <b>rename .env.example .env </b>(win).<br>
 5. Zatim komandom: <b>php artisan key:generate</b> (ponovo pokusavamo da generisemo kljuc)<br>
-6. Ako ga uspesno generise komanda: <b>php artisan serve</b>
+6. Ako ga uspesno generise, komanda: <b>php artisan serve</b>
